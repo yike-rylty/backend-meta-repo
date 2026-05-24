@@ -1,0 +1,88 @@
+[submodule "source-rules-engine"]
+	path = source-rules-engine
+	url = git@github.com:RYLTY/source-rules-engine.git
+	branch = main
+[submodule "rylty-backend"]
+	path = rylty-backend
+	url = git@github.com:RYLTY/rylty-backend.git
+	branch = deploy
+[submodule "linking"]
+	path = linking
+	url = git@github.com:RYLTY/linking.git
+	branch = main
+[submodule "GenerateReport"]
+	path = GenerateReport
+	url = git@github.com:RYLTY/GenerateReport.git
+	branch = main
+[submodule "MarvinTableParser"]
+	path = MarvinTableParser
+	url = git@github.com:RYLTY/MarvinTableParser.git
+	branch = main
+[submodule "StructuredPdfParser"]
+	path = StructuredPdfParser
+	url = git@github.com:RYLTY/StructuredPdfParser.git
+	branch = main
+[submodule "ImportFromCloud"]
+	path = ImportFromCloud
+	url = git@github.com:RYLTY/ImportFromCloud.git
+	branch = main
+[submodule "ImportFromZip"]
+	path = ImportFromZip
+	url = git@github.com:RYLTY/ImportFromZip.git
+	branch = main
+[submodule "CopyExternal"]
+	path = CopyExternal
+	url = git@github.com:RYLTY/CopyExternal.git
+	branch = main
+[submodule "GenerateSummary"]
+	path = GenerateSummary
+	url = git@github.com:RYLTY/GenerateSummary.git
+	branch = main
+[submodule "GenerateScheduleA"]
+	path = GenerateScheduleA
+	url = git@github.com:RYLTY/GenerateScheduleA.git
+	branch = main
+[submodule "CatalogFileOrganizer"]
+	path = CatalogFileOrganizer
+	url = git@github.com:RYLTY/CatalogFileOrganizer.git
+	branch = main
+[submodule "DealThreads"]
+	path = DealThreads
+	url = git@github.com:RYLTY/DealThreads.git
+	branch = main
+[submodule "MarvinAgreementsBot"]
+	path = MarvinAgreementsBot
+	url = git@github.com:RYLTY/MarvinAgreementsBot.git
+	branch = master
+[submodule "OrganizerUpdate"]
+	path = OrganizerUpdate
+	url = git@github.com:RYLTY/OrganizerUpdate.git
+	branch = main
+[submodule "marvinPdf"]
+	path = marvinPdf
+	url = git@github.com:RYLTY/marvinPdf.git
+	branch = main
+[submodule "PdfCopilot"]
+	path = PdfCopilot
+	url = git@github.com:RYLTY/PdfCopilot.git
+	branch = master
+[submodule "RecursiveUnzip"]
+	path = RecursiveUnzip
+	url = git@github.com:RYLTY/RecursiveUnzip.git
+	branch = main
+[submodule "MarvinOneOff"]
+	path = MarvinOneOff
+	url = git@github.com:RYLTY/MarvinOneOff.git
+	branch = main
+[submodule "CheckStatementPeriod"]
+	path = CheckStatementPeriod
+	url = git@github.com:RYLTY/CheckStatementPeriod.git
+	branch = main
+[submodule "PdfReconciliation"]
+	path = PdfReconciliation
+	url = git@github.com:RYLTY/PdfReconciliation.git
+	branch = main
+[submodule "SendEmail"]
+	path = SendEmail
+	url = git@github.com:RYLTY/SendEmail.git
+	branch = main
